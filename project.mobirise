@@ -60,7 +60,8 @@
     "gdpr": false,
     "publishChangesOnly": true,
     "uniqCompNum": 46,
-    "versionPublish": "5.5.2"
+    "versionPublish": "5.5.2",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "menu.html": {
